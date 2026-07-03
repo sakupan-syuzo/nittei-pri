@@ -4,10 +4,6 @@
 
 ![イベント日程調整ツール](https://img.shields.io/badge/JavaScript-Vanilla-yellow) ![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-blue) ![JSONBin](https://img.shields.io/badge/Storage-JSONBin.io-green)
 
-## 🌟 デモサイト
-
--  https://sakupan-syuzo.github.io/nittei-pri/
-
 ## ✨ 機能
 
 ### 基本機能
